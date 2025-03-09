@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "My First Blog",
+    "content": "This is the content of my first blog.",
+    "date": "2025-03-09",
+    "author": "Dharmik"
+  },
+  {
+    "id": 2,
+    "title": "Another Blog",
+    "content": "Here’s some more content.",
+    "date": "2025-03-08",
+    "author": "Dharmik"
+  }
+]
